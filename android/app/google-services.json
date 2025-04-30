@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "695557473805",
+    "project_id": "loyalty-card-storage-e5869",
+    "storage_bucket": "loyalty-card-storage-e5869.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:695557473805:android:be3cde7a13d72486d2b744",
+        "android_client_info": {
+          "package_name": "com.example.loyalty_card_storage_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDduINHB9BU3f7nlMXT5hUTonPdqAuwc1o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
